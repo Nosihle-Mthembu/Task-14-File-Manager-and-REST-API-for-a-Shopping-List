@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "name": "Apples",
+    "quantity": 5
+  }
+]
